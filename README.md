@@ -21,7 +21,7 @@ Usage of InstaShell for attacking targets without prior mutual consent is illega
 
 ### Usage:
 ```
-git clone https://github.com/F33Z/instashell
+git clone https://github.com/fu8uk1/instashell
 cd instashell
 chmod +x instashell.sh
 service tor start
@@ -40,10 +40,4 @@ sudo ./install.sh
 Script uses an Android ApkSignature to perform authentication in addition using TOR and rotating the ip address to avoid blocking. 
 The script uses Instagram-py algorithm, see the project at: https://github.com/antony-jr/instagram-py
 
-### Donate!
-Support the authors [thelinuxchoice]:
 
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
-### Get in touch with me ( FEEZ )
-@itmefeez
